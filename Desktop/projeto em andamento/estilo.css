@@ -1,0 +1,42 @@
+
+  .navbar-logo {
+    width: 50px; /* Tamanho desejado */
+    height: auto;
+    margin-right: 10px; /* Espaçamento desejado entre o logotipo e o texto */
+  }
+
+#exampleModal .modal-content {
+  color: black; 
+  align-items: left;
+}
+
+.card-body1 {
+  background-color: rgb(red, green, rgb(158, 158, 214));
+  
+}
+
+.card-body {
+  text-align: center;
+}
+
+.roteiro {
+  text-align: center;
+  border-radius: 10px;
+}
+
+
+.redes{
+  text-align: center;
+}
+
+.dev {
+  text-align: center; 
+}
+
+.footer {
+  text-align: center; 
+  align-items: center;
+  display: flex;
+  position: relative;
+}
+
